@@ -3,11 +3,10 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage",
 		"SublimeLinter",
 		"PlainTasks",
+		"Vintage",
 		"Markdown",
-		"Unity Completions",
-		"SideBarEnhancements"
+		"Unity Completions"
 	]
 }
